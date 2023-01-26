@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://yogesh-kumar-27.github.io/portfolio",
+  "name": "yogesh-portfolio",
+  "homepage": "https://yogesh-kumar-27.github.io/yogesh-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
