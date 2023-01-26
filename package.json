@@ -9,7 +9,15 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "react-hook-form": "^7.42.1",
+    "react-tilt": "^0.1.4",
+    "sass": "^1.57.1",
+    "scrollreveal": "^4.0.9",
+    "typed.js": "^2.0.12",
+    "vanilla-tilt": "^1.8.0",
+    "emailjs-com": "^3.2.0",
+    "node-sass": "^8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
