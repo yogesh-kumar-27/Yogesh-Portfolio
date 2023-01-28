@@ -1,5 +1,6 @@
-import scrollreveal from "scrollreveal";
-import React,{useEffect} from "react";
+// import scrollreveal from "scrollreveal";
+// import React,{useEffect} from "react";
+import React from "react";
 const PortfolioCard = ({ image, link, github }) => {
   // useEffect(() => {
   //   const animationEffect = () => {
